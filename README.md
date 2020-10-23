@@ -10,4 +10,4 @@ I love coffee ☕️ , beer 🍻 and music 🎧
 
 ---
 
-![profile counter](https://komarev.com/ghpvc/?username=roberthsiqueira&color=red
+![profile counter](https://komarev.com/ghpvc/?username=RoberthSiqueira&color=red
