@@ -1,4 +1,4 @@
-![github cover](https://github.com/roberthsiqueira/roberthsiqueira/blob/main/sources/cover.png)
+![github cover](https://raw.githubusercontent.com/RoberthSiqueira/RoberthSiqueira/developement/sources/cover.png)
 
 #### Welcome!
 
@@ -10,4 +10,4 @@ I love coffee ☕️ , beer 🍻 and music 🎧
 
 ---
 
-![profile counter](https://komarev.com/ghpvc/?username=your-github-username&color=red
+![profile counter](https://komarev.com/ghpvc/?username=roberthsiqueira&color=red
