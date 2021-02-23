@@ -1,4 +1,4 @@
-![github cover](https://raw.githubusercontent.com/RoberthSiqueira/RoberthSiqueira/developement/sources/cover.png)
+![github cover](https://raw.githubusercontent.com/RoberthSiqueira/RoberthSiqueira/developement/sources/new_cover.png)
 
 #### Welcome!
 
